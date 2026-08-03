@@ -1127,8 +1127,13 @@ fi
 ## OUTPUT
  ./funcex.sh 
 
+<img width="512" height="85" alt="image" src="https://github.com/user-attachments/assets/b9104262-6d51-42c4-a517-2a544b55db04" />
+
  
  ./funcex.sh 1 2
+
+
+<img width="537" height="87" alt="image" src="https://github.com/user-attachments/assets/e100e709-4df1-42ec-bd8b-ff8da5912a22" />
 
  
 cat argshift.sh
@@ -1143,6 +1148,10 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+
+<img width="527" height="130" alt="image" src="https://github.com/user-attachments/assets/a6f5fb68-11b1-4d9d-a46b-e209c71c1edc" />
+
+
  
  cat argshift1.sh
 ```bash
@@ -1160,6 +1169,9 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+
+<img width="527" height="130" alt="image" src="https://github.com/user-attachments/assets/d0436105-0cf4-43ba-bca2-b745755eb898" />
+
  
 cat argshift.sh
 ```bash
@@ -1174,6 +1186,9 @@ set +x
 ## OUTPUT
  ./argshift.sh 1 2 3
  
+
+<img width="527" height="130" alt="image" src="https://github.com/user-attachments/assets/f0a67e48-f4b1-431e-b448-357a5e5377d8" />
+
  
 cat > nc.awk
 ```bash
@@ -1231,6 +1246,8 @@ else
 fi
 ```
 ## OUTPUT 
+
+<img width="562" height="137" alt="image" src="https://github.com/user-attachments/assets/07b240cc-af66-44bd-9742-d1573d857502" />
 
 
 # RESULT:
